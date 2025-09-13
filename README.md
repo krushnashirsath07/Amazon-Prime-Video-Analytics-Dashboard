@@ -95,4 +95,4 @@ Expanding with comparison dashboards between Prime, Netflix, and Disney+.
 
 👉 This project demonstrates how Power BI can be used in the OTT industry to optimize content strategy, improve user engagement, and predict future entertainment trends.
 
-Example: 
+Example: https://github.com/krushnashirsath07/Amazon-Prime-Video-Analytics-Dashboard/blob/main/Amazon-Prime-Video-Analytics-Dashboard.png
